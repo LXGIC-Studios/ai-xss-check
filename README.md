@@ -1,5 +1,11 @@
 # ai-xss-check
 
+[![npm version](https://img.shields.io/npm/v/ai-xss-check.svg)](https://www.npmjs.com/package/ai-xss-check)
+[![npm downloads](https://img.shields.io/npm/dm/ai-xss-check.svg)](https://www.npmjs.com/package/ai-xss-check)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+AI-powered XSS vulnerability scanner. Catch cross-site scripting issues in React, Vue, and vanilla JS before attackers do.
+
 Detect XSS vulnerabilities in your frontend code using AI.
 
 ## Install
