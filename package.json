@@ -39,7 +39,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-xss-check#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-xss-check"
+    "url": "git+https://github.com/LXGIC-Studios/ai-xss-check.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-xss-check/issues"
