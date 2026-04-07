@@ -1,5 +1,5 @@
 {
-  "name": "ai-xss-check",
+  "name": "@lxgicstudios/ai-xss-check",
   "version": "1.0.0",
   "description": "Detect XSS vulnerabilities in frontend code using AI",
   "main": "dist/index.js",
