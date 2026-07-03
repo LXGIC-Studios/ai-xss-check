@@ -38,7 +38,9 @@
     "security",
     "sanitization",
     "input-validation",
-    "dompurify"
+    "dompurify",
+    "technical-seo",
+    "seo-audit"
   ],
   "license": "MIT",
   "main": "dist/index.js",
